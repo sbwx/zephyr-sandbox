@@ -5,7 +5,7 @@ Shane Baptist 47484164
 A multithreaded program that cycles through 8 colours with a 2 second interval and displays it on a Grove Chainable RGB LED.
 
 ## Folder Structure
-- dt2
+- rgb
     - src
         - main.c
     - sysbuild
