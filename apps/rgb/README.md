@@ -1,6 +1,3 @@
-# Design Task 2
-Shane Baptist 47484164
-
 ## Description
 A multithreaded program that cycles through 8 colours with a 2 second interval and displays it on a Grove Chainable RGB LED.
 
