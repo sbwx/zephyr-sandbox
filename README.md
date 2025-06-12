@@ -1,3 +1,2 @@
-# 47484164 4011 Repo
-
-My Repository
+# Description
+Starter code and experiments for learning Zephyr RTOS on nordic NRF52 boards.
