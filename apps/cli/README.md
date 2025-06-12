@@ -1,6 +1,3 @@
-# Design Task 3
-Shane Baptist 47484164
-
 ## Description
 Creates a command line interface shell that can display the elapsed time since power on in either seconds or hours, minutes and seconds as well as control two on board LEDs. Utilises the Zephyr Logging API to log info messages, warnings, errors and debug messages.
 
